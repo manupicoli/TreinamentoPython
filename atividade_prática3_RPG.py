@@ -47,11 +47,11 @@ goblinzinho = Goblin(90, 15, 'Pantanoso', 'Estrategista') #está com 60 pts de v
 Lobinho = Lobo(50, 30, 'Lobo Alfa', 'Planetária') #está com 50 pts de vida e seu ataque causa 30 pts de dano
 Lobinho.causar_dano(goblinzinho)
 
-oblinzinho = Goblin(90, 15, 'Pantanoso', 'Estrategista') #está com 60 pts de vida, e seu ataque causa 15 pts de dano
+goblinzinho = Goblin(90, 15, 'Pantanoso', 'Estrategista') #está com 60 pts de vida, e seu ataque causa 15 pts de dano
 Lobinho = Lobo(50, 30, 'Lobo Alfa', 'Planetária') #está com 50 pts de vida e seu ataque causa 30 pts de dano
 Lobinho.causar_dano(goblinzinho)
 
-oblinzinho = Goblin(90, 15, 'Pantanoso', 'Estrategista') #está com 60 pts de vida, e seu ataque causa 15 pts de dano
+goblinzinho = Goblin(90, 15, 'Pantanoso', 'Estrategista') #está com 60 pts de vida, e seu ataque causa 15 pts de dano
 Lobinho = Lobo(50, 30, 'Lobo Alfa', 'Planetária') #está com 50 pts de vida e seu ataque causa 30 pts de dano
 Lobinho.causar_dano(goblinzinho)
 
